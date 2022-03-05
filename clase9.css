@@ -1,21 +1,24 @@
 h1{
     color: aqua;
 }
+
 header{
     height: 300rem;
     background-color: blueviolet;
 }
+
 nav{
-height: 150px;
-background-color: thistle;
+    height: 150px;
+    background-color: thistle;
 }
+
 main{
     height: 1000px;
     background-color: tomato;
-
 }
 
 footer{
     height: 200px;
     background-color: yellowgreen;
 }
+
